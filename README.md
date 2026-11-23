@@ -28,3 +28,13 @@ Website Portfolio CV cá nhân giới thiệu bản thân,kỹ năng,quá trình
     ├── du-an-2.svg
     ├── du-an-3.svg
     └── 791975572_1060704449904978_7434436045093909714_n.jpg
+    Thông tin tác giả
+Họ và tên: Nguyễn Văn Thế
+
+Ngành / Lớp: Công nghệ Thông tin — Lớp CNTT 20-02
+
+Trường: Đại học Đại Nam
+
+Email: nguyenvanthe19062008@gmail.com
+
+GitHub: github.com/Coii22
