@@ -8,15 +8,14 @@ Website Portfolio CV cá nhân giới thiệu bản thân,kỹ năng,quá trình
 - **Kỹ năng:** Liệt kê các kỹ năng hiện tại về HTML5, CSS, Visual Studio Code, Git/GitHub và làm việc nhóm.
 - **Học tập:** Bảng tóm tắt các học phần tiêu biểu ở HK1 (*Nhập môn Công nghệ Thông tin*, *Thiết kế web*) cùng sản phẩm tương ứng.
 - **Dự án:** Trưng bày 3 dự án/nhóm bài tập nổi bật:
-  1. **Chương trình C++ cơ bản** (biến, kiểu dữ liệu, nhập xuất, tính toán đơn giản).
-  2. **Portfolio CV cá nhân** (xây dựng bằng HTML và CSS).
-  3. **Website thực hành HTML & CSS** (giao diện web cơ bản và Responsive Web Design).
+  1. **Portfolio CV cá nhân** (xây dựng bằng HTML và CSS).
+  2. **Website thực hành HTML & CSS** (giao diện web cơ bản và Responsive Web Design).
 - **Liên hệ & Form gửi lời nhắn:** Cung cấp thông tin liên hệ và biểu mẫu gửi lời nhắn (`action="ket-qua.html"`, `method="get"`) có kiểm tra độ dài ký tự và hỗ trợ trợ năng (`aria-describedby`).
 
 ## Công nghệ sử dụng
 - **HTML5** (cấu trúc ngữ nghĩa: `<aside>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<form>`)
 - **CSS** (liên kết qua `css/style.css`, bố cục lưới/cột và Responsive cơ bản)
-- **SVG & Hình ảnh tĩnh** trong thư mục `assets/`
+- **Hình ảnh tĩnh** trong thư mục `assets/`
 
 ## Cấu trúc thư mục
 ```text
