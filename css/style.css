@@ -248,7 +248,7 @@ textarea:focus-visible {
   border-bottom: none;
 }
 
-/* DỰ ÁN */
+
 
 .projects {
   display: grid;
@@ -289,16 +289,17 @@ textarea:focus-visible {
   font-size: 0.9375rem;
 }
 
+
 .pending-link {
   display: block;
-  margin-top: 1rem;
+  margin-top:1rem;
   overflow-wrap: anywhere;
   color: var(--accent);
   font-family: monospace;
   font-size: 0.8125rem;
 }
 
-/* LIÊN HỆ */
+
 
 .contact-layout {
   display: grid;
@@ -408,7 +409,7 @@ textarea:focus-visible {
   width: 100%;
 }
 
-/* RESPONSIVE */
+
 
 @media (max-width: 1024px) {
   .sidebar {
